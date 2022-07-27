@@ -263,5 +263,11 @@ Jobs
   color: var(--clr-primary-1);
   background: var(--clr-primary-8);
 }
-.center-btn {
+
+.footer{
+  text-align: center;
+  border: none;
+  padding: 20px;
+  margin-top: 0px;
+
 }

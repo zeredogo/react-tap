@@ -60,6 +60,7 @@ function App() {
         })}
       </article>
     </div>
+    <p className="footer"><small>Krypto Zone &copy; 2022</small></p>
   </section>
 }
 
